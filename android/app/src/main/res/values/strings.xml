@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="timer_channel_name">Sesiones de foco</string>
+    <string name="timer_title">Sesión de foco en curso</string>
+    <string name="timer_remaining">Quedan %1$s</string>
+    <string name="timer_finished">¡Sesión terminada! Vuelve para registrarla.</string>
+</resources>

@@ -1,0 +1,13 @@
+{
+  "name": "Focus",
+  "short_name": "Focus",
+  "description": "Sesiones de enfoque, gamificación y retos para recuperar tu atención",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
