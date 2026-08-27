@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.sqlite3
+instance/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Android / Gradle
+.gradle/
+android/local.properties
+android/app/build/
+android/build/
+*.apk
+*.aab
+*.keystore
+
+# Entorno / editores
+.env
+.env.local
+.idea/
+.vscode/
+.DS_Store
